@@ -1,1 +1,0 @@
-# com.jsp-servelt-jdbc-example
